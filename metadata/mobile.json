@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-15 18:17:16",
-  "count": 740,
+  "lastUpdated": "2026-04-15 18:24:43",
+  "count": 741,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -23277,6 +23277,32 @@
         "height": 4298,
         "label": "4K+",
         "type": "warning"
+      },
+      "ai": {
+        "keywords": [
+          "超赞0818壁纸",
+          "(1)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞0818壁纸 (1).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞0818壁纸 (1).png",
+      "createdAt": "2026-04-15 18:22:36",
+      "cdnTag": "v1.0.5",
+      "size": 350259,
+      "format": "png",
+      "resolution": {
+        "width": 1200,
+        "height": 2276,
+        "label": "2K",
+        "type": "info"
       },
       "ai": {
         "keywords": [
