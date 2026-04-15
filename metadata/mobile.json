@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-15 18:44:43",
-  "count": 742,
+  "lastUpdated": "2026-04-15 18:59:29",
+  "count": 743,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -23334,6 +23334,31 @@
         "keywords": [
           "超赞0818壁纸",
           "(2)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/仰视小姐姐.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "仰视小姐姐.png",
+      "createdAt": "2026-04-15 18:59:21",
+      "cdnTag": "v1.0.7",
+      "size": 428064,
+      "format": "png",
+      "resolution": {
+        "width": 1164,
+        "height": 2254,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "仰视小姐姐"
         ],
         "description": "",
         "displayTitle": "",
