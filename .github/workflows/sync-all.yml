@@ -41,6 +41,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # 允许触发其他仓库的 workflows
 
 jobs:
   sync:
@@ -279,6 +280,24 @@ jobs:
           git tag -a "$NEW_TAG" -m "Daily sync $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
           git push origin "$NEW_TAG"
           echo "✅ Created tag: $NEW_TAG"
+
+      # ========================================
+      # 8. 触发 wallpaper-gallery 部署
+      # ========================================
+      - name: Trigger wallpaper-gallery deployment
+        if: steps.check.outputs.has_changes == 'true'
+        run: |
+          echo "📡 触发 wallpaper-gallery 部署..."
+          NEW_TAG="${{ steps.version.outputs.new_tag }}"
+          
+          # 使用 curl 调用 GitHub API 触发部署
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/mkboy95/wallpaper-gallery/dispatches \
+            -d '{"event_type": "nuanXinProPic-updated", "client_payload": {"tag": "'"${NEW_TAG}"'"}}'
+          
+          echo "✅ 部署触发成功！"
 
       - name: Create Release
         id: release
