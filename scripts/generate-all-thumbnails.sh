@@ -134,7 +134,7 @@ for series in desktop mobile avatar; do
     series_dir="$WALLPAPER_DIR/$series"
     if [ -d "$series_dir" ]; then
         echo "Processing $series series..."
-        find "$series_dir" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | while read -r file; do
+        find "$series_dir" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) -print0 | while IFS= read -r -d '' file; do
             process_image "$file"
         done
     fi
