@@ -1,6 +1,6 @@
 {
-  "lastUpdated": 1776190002.473324,
-  "cdnTag": "v1.2.62",
+  "lastUpdated": 1776274340.236415,
+  "cdnTag": "v1.0.1",
   "series": {
     "desktop": {
       "count": 607,
@@ -17,7 +17,7 @@
       ]
     },
     "mobile": {
-      "count": 739,
+      "count": 740,
       "categories": [
         "人像",
         "插画",
@@ -46,11 +46,22 @@
   },
   "total": {
     "desktop": 607,
-    "mobile": 739,
+    "mobile": 740,
     "avatar": 503,
-    "bing": 2515
+    "bing": 2516
   },
   "releases": [
+    {
+      "tag": "v1.0.1",
+      "date": "2026-04-16",
+      "added": {
+        "desktop": 0,
+        "mobile": 0,
+        "avatar": 0,
+        "bing": 1
+      },
+      "publisher": "github-actions[bot]"
+    },
     {
       "tag": "v1.2.62",
       "date": "2026-04-15",
