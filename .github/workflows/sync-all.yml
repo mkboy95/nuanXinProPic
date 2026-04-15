@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "0 17 * * *"
 
+  # 推送触发（当有人推送壁纸时自动处理）
+  push:
+    paths:
+      - 'wallpaper/**'
+
   # 手动触发
   workflow_dispatch:
     inputs:
