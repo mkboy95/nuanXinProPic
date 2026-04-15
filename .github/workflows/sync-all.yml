@@ -229,6 +229,17 @@ jobs:
           fi
 
       # ========================================
+      # 4.5 生成所有系列的缩略图和预览图
+      # ========================================
+      - name: Generate thumbnails and previews for all series
+        if: steps.check.outputs.has_changes == 'true'
+        run: |
+          echo "📸 Generating thumbnails and previews..."
+          chmod +x ./scripts/generate-all-thumbnails.sh
+          ./scripts/generate-all-thumbnails.sh
+          echo "✅ Thumbnails and previews generated"
+
+      # ========================================
       # 5. 处理 metadata（关键步骤！）
       # ========================================
       - name: Process metadata from timestamps
