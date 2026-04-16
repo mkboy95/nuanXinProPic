@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-16 18:12:47",
-  "count": 743,
+  "lastUpdated": "2026-04-16 18:33:12",
+  "count": 755,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -23359,6 +23359,318 @@
       "ai": {
         "keywords": [
           "仰视小姐姐"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (5).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (5).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 573607,
+      "format": "png",
+      "resolution": {
+        "width": 2159,
+        "height": 3839,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(5)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (7).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (7).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 1048091,
+      "format": "png",
+      "resolution": {
+        "width": 1858,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(7)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (8).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (8).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 91817,
+      "format": "png",
+      "resolution": {
+        "width": 906,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(8)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (11).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (11).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 270394,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2401,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(11)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (12).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (12).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 428064,
+      "format": "png",
+      "resolution": {
+        "width": 1164,
+        "height": 2254,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(12)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (3).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (3).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 1025692,
+      "format": "png",
+      "resolution": {
+        "width": 1765,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(3)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (9).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (9).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 184736,
+      "format": "png",
+      "resolution": {
+        "width": 917,
+        "height": 1985,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(9)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (10).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (10).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 237036,
+      "format": "png",
+      "resolution": {
+        "width": 1680,
+        "height": 2240,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(10)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (6).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (6).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 184948,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(6)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (2).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (2).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 225880,
+      "format": "png",
+      "resolution": {
+        "width": 1060,
+        "height": 2360,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(2)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (4).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (4).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 1428211,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(4)"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (1).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (1).png",
+      "createdAt": "2026-04-16 18:32:58",
+      "cdnTag": "v1.0.9",
+      "size": 150319,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "keywords": [
+          "纯欲小姐姐",
+          "(1)"
         ],
         "description": "",
         "displayTitle": "",
